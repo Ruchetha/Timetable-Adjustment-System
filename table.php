@@ -1,10 +1,10 @@
 <?php
-	require 'dbconfig/config.php';
+	require 'config.php';
 ?>
 <html>
 <head>
    <title>time table</title>
-   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="style.css">
 </head>
 <body bgcolor="skyblue">
 <H1><FONT COLOR="DARKCYAN"><CENTER>FACULTY TIME TABLE</FONT></H1>

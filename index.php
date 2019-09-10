@@ -6,7 +6,7 @@
 <html>
 <head>
 <title>Home Page</title>
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color:#c0392b">
     <p><div></div></p><img width="20%" src="uploads\logo1.PNG"/>

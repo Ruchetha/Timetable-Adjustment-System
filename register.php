@@ -5,7 +5,7 @@
 <html>
 <head>
 <title>Registration Page</title>
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 
 <script type="text/javascript">
 

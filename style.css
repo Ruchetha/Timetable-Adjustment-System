@@ -1,0 +1,128 @@
+/*CSS style sheet*/
+
+#main-wrapper{
+	width:70%;
+	min-width:50px;
+	height:auto;
+	text-align:center;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border: 2px solid #95a5a6;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: green;
+}
+.avatar{
+	
+	width:20%;
+	height:20%;
+	text-align:center;
+}
+.myform{
+	width:500px;
+	margin:0 auto;
+}
+.inputvalues{
+	width:330px;
+	margin:10px auto;
+	padding:2px;
+}
+.inputvalues1{
+	width:100px;
+	margin:10px auto;
+	padding:2px;
+}
+.radiobtns{
+	margin: 10px;
+}
+.selectbox{
+margin: 10px;	
+}
+#login_btn{
+	margin-top:10px;
+	background-color:#27ae60;
+	padding:5px;
+	color:white;
+	width:50%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#register_btn{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#signup_btn{
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:30%;
+	height:40px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#sub_btn{
+	margin-top:10px;
+	background-color:#4CAF50;
+	padding:5px;
+	color:white;
+	width:30%;
+	height:40px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#back_btn{
+	margin-top:10px;
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#reset{
+	margin-top:10px;
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#logout_btn{
+	margin-top:10px;
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+}

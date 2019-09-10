@@ -1,5 +1,5 @@
 <?php
-	require 'dbconfig/config.php';
+	require 'config.php';
 ?>
 <html>
 <head>
@@ -11,7 +11,7 @@ border-width:2px;
 border-color:pink;
 }
 </style>
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body bgcolor="#EEFDEF">
 <div id="main-wrapper" height="60%">
